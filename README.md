@@ -1,4 +1,4 @@
-# NexusHashandPrimeMiner
+# NexusMiner
 
 This is a Nexus Solo Miner for the Prime and Hash Proof-of-Work Channels built from the ground up using the Nexus LLL-TAO Framework. It Supports CUDA and CPU and is easily extendible for additional hardware.
 
